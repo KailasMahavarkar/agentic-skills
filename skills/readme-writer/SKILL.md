@@ -1,5 +1,5 @@
 ---
-name: readme-evidence-writer
+name: readme-writer
 description: Writes or rewrites project README files using repository evidence instead of generic filler. Use when creating a new README, improving an existing README, or auditing an LLM-written README for inaccuracies, missing setup details, weak quickstarts, unclear audience fit, vague feature claims, or poor presentation choices.
 license: Apache-2.0
 metadata:
